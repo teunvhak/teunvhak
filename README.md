@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @teun van hak, online known as kipsate
-- 👀 I’m interested in formula 1
+- 👋 Hi the name is teun, also known as kipsate
 - 🌱 I’m currently learning Unity with C#
 - 😄 Pronouns: Male, he/him
 
